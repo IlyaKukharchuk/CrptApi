@@ -1,0 +1,26 @@
+{
+  "participantInn": "1234567890",
+  "docId": "doc123",
+  "docStatus": "NEW",
+  "docType": "LP_INTRODUCE_GOODS",
+  "importRequest": true,
+  "ownerInn": "0987654321",
+  "producerInn": "1122334455",
+  "productionDate": "2024-07-18",
+  "productionType": "TYPE",
+  "products": [
+    {
+      "certificateDocument": "certDoc",
+      "certificateDocumentDate": "2024-07-18",
+      "certificateDocumentNumber": "cert123",
+      "ownerInn": "1234567890",
+      "producerInn": "1122334455",
+      "productionDate": "2024-07-18",
+      "tnvedCode": "tnved",
+      "uitCode": "uit",
+      "uituCode": "uitu"
+    }
+  ],
+  "regDate": "2024-07-18",
+  "regNumber": "reg123"
+}
